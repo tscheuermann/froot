@@ -1,0 +1,13 @@
+Installation instructions for Froot
+submitted to the Qtopia Worldwide Developer Contest
+by Thorsten Scheuermann 
+
+To rebuild from source, in case the executable doesn't work:
+
+tmake -o Makefile froot.pro
+make
+./install.sh
+
+To create an .ipk package:
+
+mkipks froot.control

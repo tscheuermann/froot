@@ -1,0 +1,20 @@
+Froot -- A puzzle game for the Qtopia environment
+submitted to the Qtopia Worldwide Developer Contest
+(c) 2002 Thorsten Scheuermann
+
+Version 0.7
+
+This program is licensed under the terms of the MIT license.
+
+INSTALLATION
+
+See the file named INSTALL in the .tgz archive.
+
+HOW TO PLAY
+
+Refer to the online help for game instructions.
+
+TO DO
+
+- fix sound output
+- improve graphics and general appearance

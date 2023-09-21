@@ -1,0 +1,8 @@
+Version 0.7.2
+- fixed bug that caused a crash in the game in certain circumstances
+- the Start button now gets the input focus after a game is over so that
+  Froot is mostly controllable by keyboard only
+- changed the tab order of the menu widget
+
+Version 0.7
+- initial revision

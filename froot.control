@@ -1,0 +1,10 @@
+Files: bin/froot apps/Games/froot.desktop pics/froot/* pics/Froot.png help/html/froot.html
+Priority: optional
+Section: qpe/games
+Maintainer: Thorsten Scheuermann 
+Architecture: arm
+Version: 0.7.1
+Depends: qpe-base ($QPE_VERSION)
+License: MIT
+Description: A puzzle game
+ A puzzle game for the Qtopia environment.
